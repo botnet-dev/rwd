@@ -1,11 +1,11 @@
 /* CSS HEX */
---forest-green: #159228ff;
---mantis: #5AB466ff;
---xanthous: #E9B01Eff;
---black: #000000ff;
---black-2: #000000ff;
---xanthous-2: #E9B01Eff;
---straw: #E3D876ff;
+--forest-green: #159228;
+--mantis: #5AB466;
+--xanthous: #E9B01E;
+--black: #000000;
+--black-2: #000000;
+--xanthous-2: #E9B01E;
+--straw: #E3D876;
 
 /* CSS HSL */
 --forest-green: hsla(129, 75%, 33%, 1);
@@ -17,13 +17,13 @@
 --straw: hsla(54, 66%, 68%, 1);
 
 /* SCSS HEX */
-$forest-green: #159228ff;
-$mantis: #5AB466ff;
-$xanthous: #E9B01Eff;
-$black: #000000ff;
-$black-2: #000000ff;
-$xanthous-2: #E9B01Eff;
-$straw: #E3D876ff;
+$forest-green: #159228;
+$mantis: #5AB466;
+$xanthous: #E9B01E;
+$black: #000000;
+$black-2: #000000;
+$xanthous-2: #E9B01E;
+$straw: #E3D876;
 
 /* SCSS HSL */
 $forest-green: hsla(129, 75%, 33%, 1);
