@@ -108,7 +108,7 @@ main {
 
 .page-top-underline {
     background-color: var(--forest-green);
-    width: 100px;
+    width: 50px;
     height: 2px;
 }
 
