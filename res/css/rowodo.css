@@ -92,7 +92,7 @@ main {
 }
 
 .section-title {
-    color: #00A3DD;
+    color: var(--golden-yellow-2);
     font-family: poppins;
     font-weight: 700;
 }
