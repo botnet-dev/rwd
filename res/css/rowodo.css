@@ -151,8 +151,8 @@ footer {
 }
 
 footer a {
-    color: #00A3DD;
-    text-decoration: none;
+    color: var(--forest-green);
+    /* text-decoration: none; */
 }
 
 footer h5 {
