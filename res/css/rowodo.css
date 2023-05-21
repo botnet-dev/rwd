@@ -143,6 +143,7 @@ main {
 }
 
 
+
 /* footer */
 
 footer {
@@ -153,6 +154,10 @@ footer {
 footer a {
     color: var(--forest-green);
     /* text-decoration: none; */
+}
+
+.social {
+    color: var(--forest-green);
 }
 
 footer h5 {
