@@ -40,6 +40,11 @@ body {
     width: auto;
 }
 
+.main-logo {
+    height: 40px;
+    width: auto;
+}
+
 #web-logo {
     height: 200px;
     width: auto;
@@ -93,8 +98,12 @@ main {
 }
 
 .section-title-icon {
-    color: #00A3DD;
+    color: var(--golden-yellow-2);
     font-size: 2rem;
+}
+
+.page-subtitle {
+    color: var(--golden-yellow-2);
 }
 
 .web-for {
