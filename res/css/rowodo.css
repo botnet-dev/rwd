@@ -21,7 +21,6 @@ Botnet Dev
 
 }
 /*
-    
     green #1EB53A
     blue #00A3DD
 */
@@ -138,10 +137,8 @@ main {
 /* footer */
 
 footer {
-    color: rgb(3, 8, 77);
-    background-image: linear-gradient(to right, #f6f8f8, #ebecee);
-    /* background-color: #00A3DD; */
-    background-color: rgb(245, 170, 8);
+    color: var(--forest-green);
+    background-color: var(--pale-yellow);
 }
 
 footer a {
@@ -159,10 +156,9 @@ footer h5 {
 }
 
 #copy-left {
-    background-color: #1EB53A;
-    background-color: rgb(3, 8, 77);
+    background-color: var(--forest-green);
     font-weight: 400;
-    color: rgb(245, 170, 8);
+    color: var(--golden-yellow-2);
     padding-top: .5rem;
     padding-bottom: .5rem;
 }
