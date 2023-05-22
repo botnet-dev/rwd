@@ -118,9 +118,10 @@ main {
 
 /* images */
 
-/* #women-image {
-    height: 200px;
-} */
+#women-image {
+    background-color: var(--forest-green);
+    
+}
 
 #all-links {
     align-content: center;
