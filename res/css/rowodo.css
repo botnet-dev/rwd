@@ -127,6 +127,11 @@ main {
     background-blend-mode: multiply;
 }
 
+.how-icons {
+    color: var(--forest-green);
+    font-size: 1.5rem;
+}
+
 #all-links {
     align-content: center;
 }
