@@ -116,6 +116,12 @@ main {
     height: 2px;
 }
 
+/* images */
+
+#women-image {
+    height: 200px;
+}
+
 #all-links {
     align-content: center;
 }
