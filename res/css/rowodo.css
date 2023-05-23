@@ -167,8 +167,12 @@ main {
 /* partners */
 
 .partner-logo {
-    height: 75px;
+    height: 60px;
     width: auto;
+}
+
+#swissaid-logo {
+    height: 50px;
 }
 
 
