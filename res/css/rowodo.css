@@ -164,7 +164,12 @@ main {
     color: #1EB53A;
 }
 
+/* partners */
 
+.partner-logo {
+    height: 100px;
+    width: auto;
+}
 
 /* footer */
 
