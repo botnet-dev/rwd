@@ -54,6 +54,10 @@ body {
     color : white;
 }
 
+.navbar-light {
+    color: var(--forest-green);
+}
+
 .nav-link {
     color: var(--forest-green);
 }
