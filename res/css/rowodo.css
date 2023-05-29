@@ -54,6 +54,10 @@ body {
     color : white;
 }
 
+.nav-link {
+    color: var(--forest-green);
+}
+
 /* .top-homepage {
     
 } */
