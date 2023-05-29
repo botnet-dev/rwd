@@ -62,6 +62,10 @@ body {
     color: var(--forest-green);
 }
 
+.nav-link > a:hover {
+    color: var(--forest-green) !important;
+}
+
 /* .top-homepage {
     
 } */
