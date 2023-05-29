@@ -54,16 +54,17 @@ body {
     color : white;
 }
 
-.navbar-light {
+.navbar {
     color: var(--forest-green);
+    background-color:  var(--pale-yellow);
 }
 
 .nav-link {
     color: var(--forest-green);
 }
 
-.nav-link > a:hover {
-    color: var(--forest-green) !important;
+.navbar a:hover {
+    color: var(--golden-yellow-2) !important;
 }
 
 /* .top-homepage {
