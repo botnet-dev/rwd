@@ -227,3 +227,9 @@ footer h5 {
     padding-top: .5rem;
     padding-bottom: .5rem;
 }
+
+/* special classes */
+
+.emp {
+    color : var(--forest-green);
+}
