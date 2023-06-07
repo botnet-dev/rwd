@@ -233,3 +233,9 @@ footer h5 {
 .emp {
     color : var(--forest-green);
 }
+
+/* Contact page */
+
+#sendBtn {
+    background-color: var(--golden-yellow-2);
+}
